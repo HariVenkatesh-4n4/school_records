@@ -1,2 +1,2 @@
 # school_records
-CRUD Operation using Django
+CRUD Operation using HTML, CSS, JS, and Django.
